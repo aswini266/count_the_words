@@ -5,7 +5,7 @@ body{
 }
 
 #wrapper{
-    background-color: rgb(79, 91, 253);
+    background-color: #ae7c7c;
     height:100vh;
     width:100vw;
     align-items: center;
@@ -22,7 +22,7 @@ h1{
   padding-top: 2px;  
 }
 #container{
-    background-color: rgb(112, 209, 226);
+    background-color:  #6cbbb3;
     padding: 10px 24px;
     position: relative;
     width: 50vw;
@@ -61,21 +61,23 @@ button{
     border: 2px solid black;
     margin-top: 10px;
     margin: 0 auto;
-    background-color: lightcoral;
+    background-color:#efe784;
     font-size: 20px;
     font-family: 'Apple Chancery',cursive;
     font-style: italic;
     color: black;
     align-items: center;
+    cursor: pointer;
 }
 label{
     display: flex;
-    background-color: rgb(112, 209, 226);
+    background-color:#3e3838; 
     width: 100px;
     height: 50px;
     border: 2px solid black;
     border-radius:10px;
     margin: 0 auto ;
+    color:white;
     font-size: 30px;
     padding-left: 20px;
 
